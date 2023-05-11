@@ -1,0 +1,5 @@
+@layer components {
+    .input-primary {
+      @apply mb-4 py-3 pr-12 pl-4 text-lg text-left border-2 border-gray-200 rounded-lg focus:outline-none focus:border-x-2 focus:border-blue-500
+    }
+}
